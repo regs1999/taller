@@ -1,0 +1,15 @@
+.contenedor {
+    display: flex;
+}
+.cont-1, .cont-2 {
+
+    box-sizing: border-box; /* Asegura que el padding y el borde no afecten el ancho */
+}
+.cont-1 {
+    width: 70%;
+    background-color: lightcoral;
+}
+.cont-2 {
+    width: 30%;
+    background-color: lightblue;
+}
